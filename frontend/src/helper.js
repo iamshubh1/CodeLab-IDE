@@ -11,4 +11,4 @@ export const removeClass = (el,className) => {
 };
 
 
-export const api_base_url = "http://localhost:8000"
+export const api_base_url = "https://codelab-ide-server.onrender.com"
